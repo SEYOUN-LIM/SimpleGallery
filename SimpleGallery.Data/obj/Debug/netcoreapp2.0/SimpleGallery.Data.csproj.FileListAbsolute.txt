@@ -1,0 +1,8 @@
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\obj\Debug\netcoreapp2.0\SimpleGallery.Data.csproj.CoreCompileInputs.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\obj\Debug\netcoreapp2.0\SimpleGallery.Data.AssemblyInfoInputs.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\obj\Debug\netcoreapp2.0\SimpleGallery.Data.AssemblyInfo.cs
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\bin\Debug\netcoreapp2.0\SimpleGallery.Data.deps.json
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\bin\Debug\netcoreapp2.0\SimpleGallery.Data.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\bin\Debug\netcoreapp2.0\SimpleGallery.Data.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\obj\Debug\netcoreapp2.0\SimpleGallery.Data.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery.Data\obj\Debug\netcoreapp2.0\SimpleGallery.Data.pdb

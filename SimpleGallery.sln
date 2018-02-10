@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGallery", "SimpleGallery\SimpleGallery.csproj", "{D6B6625D-9D54-441E-9D9B-71116B82E0DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGallery.Data", "SimpleGallery.Data\SimpleGallery.Data.csproj", "{1723FFF4-0E80-4201-94B2-C99FC18B7FF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B6625D-9D54-441E-9D9B-71116B82E0DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B6625D-9D54-441E-9D9B-71116B82E0DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B6625D-9D54-441E-9D9B-71116B82E0DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B6625D-9D54-441E-9D9B-71116B82E0DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1723FFF4-0E80-4201-94B2-C99FC18B7FF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1723FFF4-0E80-4201-94B2-C99FC18B7FF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1723FFF4-0E80-4201-94B2-C99FC18B7FF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1723FFF4-0E80-4201-94B2-C99FC18B7FF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {798F5AAD-12CE-4083-B7DB-0A8639860387}
+	EndGlobalSection
+EndGlobal
