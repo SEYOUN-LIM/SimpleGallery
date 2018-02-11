@@ -21,7 +21,7 @@ namespace SimpleGallery.Services
 
         public GalleryImage GetById(int id)
         {
-            return _ctx.GalleryImages.Find(id);
+            return GetAll().Where(img => img.Id == id).First();
         }
 
         public IEnumerable<GalleryImage> GetWithTags(string tag)
