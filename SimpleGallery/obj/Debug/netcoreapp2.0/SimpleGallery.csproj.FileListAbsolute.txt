@@ -11,3 +11,16 @@ C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery\bin\D
 C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.csprojResolveAssemblyReference.cache
 C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.dll
 C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.deps.json
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.runtimeconfig.json
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.runtimeconfig.dev.json
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.Data.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.Data.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.csprojResolveAssemblyReference.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.csproj.CoreCompileInputs.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.AssemblyInfoInputs.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.AssemblyInfo.cs
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.pdb
