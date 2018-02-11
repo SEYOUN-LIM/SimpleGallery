@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SimpleGallery.Data;
+using SimpleGallery.Services;
 
 namespace SimpleGallery
 {
@@ -50,7 +51,7 @@ namespace SimpleGallery
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Gallery}/{action=Index}/{id?}");
             });
         }
     }

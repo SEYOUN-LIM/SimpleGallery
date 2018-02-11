@@ -1,0 +1,11 @@
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\bin\Debug\netcoreapp2.0\SimpleGallery.Services.deps.json
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\bin\Debug\netcoreapp2.0\SimpleGallery.Services.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\bin\Debug\netcoreapp2.0\SimpleGallery.Services.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\bin\Debug\netcoreapp2.0\SimpleGallery.Data.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\bin\Debug\netcoreapp2.0\SimpleGallery.Data.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\obj\Debug\netcoreapp2.0\SimpleGallery.Services.csprojResolveAssemblyReference.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\obj\Debug\netcoreapp2.0\SimpleGallery.Services.csproj.CoreCompileInputs.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\obj\Debug\netcoreapp2.0\SimpleGallery.Services.AssemblyInfoInputs.cache
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\obj\Debug\netcoreapp2.0\SimpleGallery.Services.AssemblyInfo.cs
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\obj\Debug\netcoreapp2.0\SimpleGallery.Services.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery.Services\obj\Debug\netcoreapp2.0\SimpleGallery.Services.pdb

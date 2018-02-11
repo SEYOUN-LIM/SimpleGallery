@@ -24,3 +24,5 @@ C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreap
 C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.AssemblyInfo.cs
 C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.dll
 C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\obj\Debug\netcoreapp2.0\SimpleGallery.pdb
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.Services.dll
+C:\Users\Seyoun\Documents\GitHub\SimpleGallery\SimpleGallery\bin\Debug\netcoreapp2.0\SimpleGallery.Services.pdb
