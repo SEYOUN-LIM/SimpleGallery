@@ -27,6 +27,7 @@ namespace SimpleGallery
                 options.UseSqlServer(Configuration.
                 GetConnectionString("DefaultConnection"))
             );
+            services.AddScoped<IImage, ImageService>();
             services.AddMvc();
         }
 

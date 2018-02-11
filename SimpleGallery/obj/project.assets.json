@@ -5059,6 +5059,19 @@
         "runtime": {
           "bin/placeholder/SimpleGallery.Data.dll": {}
         }
+      },
+      "SimpleGallery.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "SimpleGallery.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SimpleGallery.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleGallery.Services.dll": {}
+        }
       }
     }
   },
@@ -15305,6 +15318,11 @@
       "type": "project",
       "path": "../SimpleGallery.Data/SimpleGallery.Data.csproj",
       "msbuildProject": "../SimpleGallery.Data/SimpleGallery.Data.csproj"
+    },
+    "SimpleGallery.Services/1.0.0": {
+      "type": "project",
+      "path": "../SimpleGallery.Services/SimpleGallery.Services.csproj",
+      "msbuildProject": "../SimpleGallery.Services/SimpleGallery.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -15313,7 +15331,8 @@
       "Microsoft.AspNetCore.All >= 2.0.5",
       "Microsoft.NETCore.App >= 2.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.0.2",
-      "SimpleGallery.Data >= 1.0.0"
+      "SimpleGallery.Data >= 1.0.0",
+      "SimpleGallery.Services >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -15349,6 +15368,9 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
+            "C:\\Users\\Seyoun\\Documents\\GitHub\\SimpleGallery\\SimpleGallery.Services\\SimpleGallery.Services.csproj": {
+              "projectPath": "C:\\Users\\Seyoun\\Documents\\GitHub\\SimpleGallery\\SimpleGallery.Services\\SimpleGallery.Services.csproj"
+            },
             "C:\\Users\\Seyoun\\Documents\\GitHub\\SimpleGallery\\SimpleGallery.Data\\SimpleGallery.Data.csproj": {
               "projectPath": "C:\\Users\\Seyoun\\Documents\\GitHub\\SimpleGallery\\SimpleGallery.Data\\SimpleGallery.Data.csproj"
             }
