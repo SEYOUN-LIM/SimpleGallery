@@ -28,5 +28,11 @@ namespace SimpleGallery.Services
         {
             return GetAll().Where(img => img.Tags.Any(t => t.Description == tag));
         }
+
+        public void CreateImage(GalleryImage galleryImage)
+        {
+            _ctx.Add(galleryImage);
+            _ctx.SaveChanges();
+        }
     }
 }

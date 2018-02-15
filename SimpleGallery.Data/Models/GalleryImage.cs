@@ -12,5 +12,6 @@ namespace SimpleGallery.Data.Models
 
         public virtual IEnumerable<ImageTag> Tags { get; set; }
 
+
     }
 }

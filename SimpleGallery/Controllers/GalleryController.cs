@@ -99,5 +99,10 @@ namespace SimpleGallery.Controllers
 
             return View(model);
         }
+
+        public IActionResult ImgUp()
+        {
+            return View();
+        }
     }
 }
